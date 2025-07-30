@@ -1,5 +1,5 @@
 from carbon_data.carbon_fetcher import get_carbon_data
-from region_mapper import get_cloud_region
+from .region_mapper import get_cloud_region
 
 def select_deployment_region(provider="aws"):
     """Select best region based on carbon data"""
