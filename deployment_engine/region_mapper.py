@@ -28,8 +28,17 @@ CLOUD_MAP = {
     # Add other zones similarly
 }
 
+# Add default fallbacks
+DEFAULT_REGIONS = {
+    "aws": "us-east-1",
+    "gcp": "us-central1",
+    "azure": "eastus"
+}
+
+
+
 def get_cloud_region(carbon_zone, cloud_provider="aws"):
-    """Convert carbon zone to cloud region"""
+    """Convert carbon zone to cloud region with fallback"""
     if carbon_zone in CLOUD_MAP:
-        return CLOUD_MAP[carbon_zone].get(cloud_provider, "unknown")
-    return "unknown"
+        return CLOUD_MAP[carbon_zone].get(cloud_provider, DEFAULT_REGIONS[cloud_provider])
+    return DEFAULT_REGIONS[cloud_provider]
