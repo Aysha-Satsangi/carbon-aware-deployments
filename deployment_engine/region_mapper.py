@@ -1,4 +1,3 @@
-# Maps ElectricityMap zones to cloud provider regions
 # deployment_engine/region_mapper.py
 
 CLOUD_MAP = {
@@ -57,6 +56,14 @@ CLOUD_MAP = {
         "gcp":   "asia-southeast1",       # GCP Singapore
         "azure": "southeastasia"          # Azure Southeast Asia
     }
+}
+
+
+# Add default fallbacks
+DEFAULT_REGIONS = {
+    "aws": "us-east-1",
+    "gcp": "us-central1",
+    "azure": "eastus"
 }
 
 
