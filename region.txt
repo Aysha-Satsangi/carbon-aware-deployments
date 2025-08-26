@@ -1,1 +1,1 @@
-us-east-1
+simulated-eu-west-2
