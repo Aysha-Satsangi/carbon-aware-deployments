@@ -1,0 +1,1206 @@
+{
+  "zone": "JP-TK",
+  "history": [
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-11T17:00:00.000Z",
+      "updatedAt": "2025-10-12T00:26:03.159Z",
+      "createdAt": "2025-10-11T01:54:39.732Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 47,
+        "geothermal": 40,
+        "biomass": 353,
+        "coal": 8135,
+        "wind": 214,
+        "solar": 0,
+        "hydro": 1372,
+        "gas": 9130,
+        "oil": 850,
+        "unknown": 85,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 189,
+        "coal": 6606,
+        "wind": 46,
+        "solar": 0,
+        "hydro": 849,
+        "gas": 7439,
+        "oil": 645,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 607,
+        "JP-TH": 3845
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 10,
+      "renewablePercentage": 10,
+      "powerConsumptionTotal": 20226,
+      "powerProductionTotal": 15775,
+      "powerImportTotal": 4451,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-11T18:00:00.000Z",
+      "updatedAt": "2025-10-12T06:26:31.778Z",
+      "createdAt": "2025-10-11T01:54:54.704Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 56,
+        "geothermal": 36,
+        "biomass": 346,
+        "coal": 8323,
+        "wind": 180,
+        "solar": 0,
+        "hydro": 1381,
+        "gas": 9345,
+        "oil": 864,
+        "unknown": 78,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 196,
+        "coal": 6847,
+        "wind": 39,
+        "solar": 0,
+        "hydro": 880,
+        "gas": 7711,
+        "oil": 668,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 837,
+        "JP-TH": 3430
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 10,
+      "renewablePercentage": 9,
+      "powerConsumptionTotal": 20609,
+      "powerProductionTotal": 16342,
+      "powerImportTotal": 4267,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-11T19:00:00.000Z",
+      "updatedAt": "2025-10-12T06:26:45.294Z",
+      "createdAt": "2025-10-11T01:55:04.086Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 38,
+        "geothermal": 34,
+        "biomass": 342,
+        "coal": 8486,
+        "wind": 169,
+        "solar": 0,
+        "hydro": 1367,
+        "gas": 9531,
+        "oil": 876,
+        "unknown": 73,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 205,
+        "coal": 7184,
+        "wind": 39,
+        "solar": 0,
+        "hydro": 924,
+        "gas": 8091,
+        "oil": 701,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 556,
+        "JP-TH": 3216
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 9,
+      "renewablePercentage": 9,
+      "powerConsumptionTotal": 20917,
+      "powerProductionTotal": 17145,
+      "powerImportTotal": 3772,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-11T20:00:00.000Z",
+      "updatedAt": "2025-10-12T06:26:45.294Z",
+      "createdAt": "2025-10-11T01:54:54.704Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 26,
+        "geothermal": 34,
+        "biomass": 345,
+        "coal": 8571,
+        "wind": 162,
+        "solar": 2,
+        "hydro": 1367,
+        "gas": 9626,
+        "oil": 883,
+        "unknown": 71,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 209,
+        "coal": 7324,
+        "wind": 36,
+        "solar": 0,
+        "hydro": 942,
+        "gas": 8248,
+        "oil": 715,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 399,
+        "JP-TH": 3216
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 9,
+      "renewablePercentage": 9,
+      "powerConsumptionTotal": 21088,
+      "powerProductionTotal": 17474,
+      "powerImportTotal": 3615,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-11T21:00:00.000Z",
+      "updatedAt": "2025-10-12T06:26:31.778Z",
+      "createdAt": "2025-10-11T01:55:04.086Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 45,
+        "geothermal": 37,
+        "biomass": 346,
+        "coal": 8241,
+        "wind": 171,
+        "solar": 1202,
+        "hydro": 1360,
+        "gas": 9253,
+        "oil": 856,
+        "unknown": 78,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 195,
+        "coal": 6833,
+        "wind": 34,
+        "solar": 1137,
+        "hydro": 879,
+        "gas": 7695,
+        "oil": 667,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 588,
+        "JP-TH": 3561
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 15,
+      "renewablePercentage": 14,
+      "powerConsumptionTotal": 21588,
+      "powerProductionTotal": 17440,
+      "powerImportTotal": 4149,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-11T22:00:00.000Z",
+      "updatedAt": "2025-10-12T06:26:31.778Z",
+      "createdAt": "2025-10-11T01:55:04.086Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 75,
+        "geothermal": 44,
+        "biomass": 346,
+        "coal": 7415,
+        "wind": 181,
+        "solar": 4426,
+        "hydro": 1330,
+        "gas": 8316,
+        "oil": 786,
+        "unknown": 94,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 161,
+        "coal": 5645,
+        "wind": 32,
+        "solar": 4049,
+        "hydro": 726,
+        "gas": 6357,
+        "oil": 551,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 988,
+        "JP-TH": 4505
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 28,
+      "renewablePercentage": 27,
+      "powerConsumptionTotal": 23013,
+      "powerProductionTotal": 17521,
+      "powerImportTotal": 5493,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-11T23:00:00.000Z",
+      "updatedAt": "2025-10-12T06:26:57.240Z",
+      "createdAt": "2025-10-11T01:54:54.704Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 63,
+        "geothermal": 45,
+        "biomass": 324,
+        "coal": 6645,
+        "wind": 173,
+        "solar": 7991,
+        "hydro": 1224,
+        "gas": 7448,
+        "oil": 711,
+        "unknown": 95,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 141,
+        "coal": 4919,
+        "wind": 30,
+        "solar": 7274,
+        "hydro": 632,
+        "gas": 5540,
+        "oil": 480,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 965,
+        "JP-TH": 4736
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 40,
+      "renewablePercentage": 39,
+      "powerConsumptionTotal": 24718,
+      "powerProductionTotal": 19016,
+      "powerImportTotal": 5701,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T00:00:00.000Z",
+      "updatedAt": "2025-10-12T12:26:13.221Z",
+      "createdAt": "2025-10-11T01:54:39.732Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 51,
+        "geothermal": 35,
+        "biomass": 281,
+        "coal": 6069,
+        "wind": 176,
+        "solar": 10515,
+        "hydro": 1085,
+        "gas": 6807,
+        "oil": 642,
+        "unknown": 75,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 133,
+        "coal": 4646,
+        "wind": 30,
+        "solar": 9529,
+        "hydro": 597,
+        "gas": 5233,
+        "oil": 454,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 1042,
+        "JP-TH": 4073
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 47,
+      "renewablePercentage": 47,
+      "powerConsumptionTotal": 25738,
+      "powerProductionTotal": 20622,
+      "powerImportTotal": 5115,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T01:00:00.000Z",
+      "updatedAt": "2025-10-12T12:26:13.221Z",
+      "createdAt": "2025-10-11T01:54:39.732Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 26,
+        "geothermal": 35,
+        "biomass": 273,
+        "coal": 5997,
+        "wind": 179,
+        "solar": 10977,
+        "hydro": 1046,
+        "gas": 6727,
+        "oil": 633,
+        "unknown": 73,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 135,
+        "coal": 4715,
+        "wind": 30,
+        "solar": 9807,
+        "hydro": 606,
+        "gas": 5310,
+        "oil": 460,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 608,
+        "JP-TH": 4294
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 48,
+      "renewablePercentage": 48,
+      "powerConsumptionTotal": 25965,
+      "powerProductionTotal": 21063,
+      "powerImportTotal": 4902,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T02:00:00.000Z",
+      "updatedAt": "2025-10-12T12:26:13.221Z",
+      "createdAt": "2025-10-11T01:54:54.704Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 41,
+        "geothermal": 39,
+        "biomass": 284,
+        "coal": 5961,
+        "wind": 202,
+        "solar": 11713,
+        "hydro": 1085,
+        "gas": 6684,
+        "oil": 636,
+        "unknown": 82,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 128,
+        "coal": 4480,
+        "wind": 33,
+        "solar": 10232,
+        "hydro": 576,
+        "gas": 5045,
+        "oil": 437,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 980,
+        "JP-TH": 4815
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 50,
+      "renewablePercentage": 50,
+      "powerConsumptionTotal": 26726,
+      "powerProductionTotal": 20931,
+      "powerImportTotal": 5795,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T03:00:00.000Z",
+      "updatedAt": "2025-10-12T12:26:13.221Z",
+      "createdAt": "2025-10-11T01:55:04.086Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 36,
+        "geothermal": 36,
+        "biomass": 292,
+        "coal": 6570,
+        "wind": 205,
+        "solar": 9139,
+        "hydro": 1126,
+        "gas": 7371,
+        "oil": 691,
+        "unknown": 77,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 150,
+        "coal": 5254,
+        "wind": 40,
+        "solar": 7753,
+        "hydro": 676,
+        "gas": 5918,
+        "oil": 513,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 624,
+        "JP-TH": 4614
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 42,
+      "renewablePercentage": 42,
+      "powerConsumptionTotal": 25543,
+      "powerProductionTotal": 20304,
+      "powerImportTotal": 5239,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T04:00:00.000Z",
+      "updatedAt": "2025-10-12T12:26:13.221Z",
+      "createdAt": "2025-10-11T01:54:39.732Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 39,
+        "biomass": 324,
+        "coal": 7483,
+        "wind": 206,
+        "solar": 7799,
+        "hydro": 1231,
+        "gas": 8399,
+        "oil": 782,
+        "unknown": 79,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 183,
+        "coal": 6412,
+        "wind": 44,
+        "solar": 6851,
+        "hydro": 824,
+        "gas": 7221,
+        "oil": 626,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 4926
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 747,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 36,
+      "renewablePercentage": 36,
+      "powerConsumptionTotal": 26342,
+      "powerProductionTotal": 22162,
+      "powerImportTotal": 4926,
+      "powerExportTotal": 747,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T05:00:00.000Z",
+      "updatedAt": "2025-10-12T12:26:13.221Z",
+      "createdAt": "2025-10-11T01:55:04.086Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 42,
+        "biomass": 356,
+        "coal": 8272,
+        "wind": 203,
+        "solar": 5868,
+        "hydro": 1357,
+        "gas": 9284,
+        "oil": 864,
+        "unknown": 87,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 201,
+        "coal": 7044,
+        "wind": 49,
+        "solar": 5129,
+        "hydro": 906,
+        "gas": 7933,
+        "oil": 688,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 4890
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 507,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 30,
+      "renewablePercentage": 30,
+      "powerConsumptionTotal": 26333,
+      "powerProductionTotal": 21950,
+      "powerImportTotal": 4890,
+      "powerExportTotal": 507,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T06:00:00.000Z",
+      "updatedAt": "2025-10-12T12:25:58.596Z",
+      "createdAt": "2025-10-11T01:54:39.732Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 42,
+        "biomass": 384,
+        "coal": 9309,
+        "wind": 180,
+        "solar": 2787,
+        "hydro": 1488,
+        "gas": 10452,
+        "oil": 965,
+        "unknown": 86,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 233,
+        "coal": 8154,
+        "wind": 47,
+        "solar": 2423,
+        "hydro": 1048,
+        "gas": 9183,
+        "oil": 796,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 4442
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 633,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 19,
+      "renewablePercentage": 19,
+      "powerConsumptionTotal": 25693,
+      "powerProductionTotal": 21884,
+      "powerImportTotal": 4442,
+      "powerExportTotal": 633,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T07:00:00.000Z",
+      "updatedAt": "2025-10-12T12:26:13.221Z",
+      "createdAt": "2025-10-11T01:54:39.732Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 1,
+        "geothermal": 41,
+        "biomass": 413,
+        "coal": 10411,
+        "wind": 159,
+        "solar": 428,
+        "hydro": 1625,
+        "gas": 11694,
+        "oil": 1071,
+        "unknown": 84,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 265,
+        "coal": 9276,
+        "wind": 42,
+        "solar": 338,
+        "hydro": 1193,
+        "gas": 10446,
+        "oil": 905,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 3984
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 522,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 10,
+      "renewablePercentage": 10,
+      "powerConsumptionTotal": 25928,
+      "powerProductionTotal": 22466,
+      "powerImportTotal": 3984,
+      "powerExportTotal": 522,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T08:00:00.000Z",
+      "updatedAt": "2025-10-12T12:26:13.221Z",
+      "createdAt": "2025-10-11T01:54:54.704Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 43,
+        "biomass": 442,
+        "coal": 11301,
+        "wind": 157,
+        "solar": 5,
+        "hydro": 1751,
+        "gas": 12695,
+        "oil": 1160,
+        "unknown": 88,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 284,
+        "coal": 9940,
+        "wind": 40,
+        "solar": 3,
+        "hydro": 1278,
+        "gas": 11194,
+        "oil": 970,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 3943
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 9,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 9,
+      "renewablePercentage": 9,
+      "powerConsumptionTotal": 27643,
+      "powerProductionTotal": 23709,
+      "powerImportTotal": 3943,
+      "powerExportTotal": 9,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T09:00:00.000Z",
+      "updatedAt": "2025-10-12T12:26:29.883Z",
+      "createdAt": "2025-10-11T01:54:54.704Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 45,
+        "biomass": 457,
+        "coal": 11423,
+        "wind": 167,
+        "solar": 0,
+        "hydro": 1800,
+        "gas": 12831,
+        "oil": 1176,
+        "unknown": 93,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 282,
+        "coal": 9865,
+        "wind": 39,
+        "solar": 0,
+        "hydro": 1268,
+        "gas": 11110,
+        "oil": 963,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 244,
+        "JP-TH": 4222
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 9,
+      "renewablePercentage": 9,
+      "powerConsumptionTotal": 27993,
+      "powerProductionTotal": 23527,
+      "powerImportTotal": 4467,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T10:00:00.000Z",
+      "updatedAt": "2025-10-12T12:25:58.596Z",
+      "createdAt": "2025-10-11T01:54:39.732Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 1,
+        "geothermal": 45,
+        "biomass": 448,
+        "coal": 11208,
+        "wind": 176,
+        "solar": 0,
+        "hydro": 1762,
+        "gas": 12589,
+        "oil": 1154,
+        "unknown": 92,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 279,
+        "coal": 9750,
+        "wind": 39,
+        "solar": 0,
+        "hydro": 1254,
+        "gas": 10980,
+        "oil": 952,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 35,
+        "JP-TH": 4188
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 9,
+      "renewablePercentage": 9,
+      "powerConsumptionTotal": 27476,
+      "powerProductionTotal": 23253,
+      "powerImportTotal": 4223,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T11:00:00.000Z",
+      "updatedAt": "2025-10-12T13:25:47.822Z",
+      "createdAt": "2025-10-11T01:54:54.704Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 11,
+        "geothermal": 43,
+        "biomass": 435,
+        "coal": 10822,
+        "wind": 182,
+        "solar": 0,
+        "hydro": 1724,
+        "gas": 12155,
+        "oil": 1115,
+        "unknown": 89,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 264,
+        "coal": 9242,
+        "wind": 39,
+        "solar": 0,
+        "hydro": 1188,
+        "gas": 10408,
+        "oil": 902,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 498,
+        "JP-TH": 4036
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 9,
+      "renewablePercentage": 9,
+      "powerConsumptionTotal": 26577,
+      "powerProductionTotal": 22043,
+      "powerImportTotal": 4534,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T12:00:00.000Z",
+      "updatedAt": "2025-10-12T14:25:44.204Z",
+      "createdAt": "2025-10-11T01:54:39.732Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 17,
+        "geothermal": 43,
+        "biomass": 421,
+        "coal": 10297,
+        "wind": 183,
+        "solar": 0,
+        "hydro": 1664,
+        "gas": 11563,
+        "oil": 1063,
+        "unknown": 89,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 248,
+        "coal": 8674,
+        "wind": 38,
+        "solar": 0,
+        "hydro": 1115,
+        "gas": 9769,
+        "oil": 847,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 625,
+        "JP-TH": 4025
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 9,
+      "renewablePercentage": 9,
+      "powerConsumptionTotal": 25340,
+      "powerProductionTotal": 20690,
+      "powerImportTotal": 4650,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T13:00:00.000Z",
+      "updatedAt": "2025-10-12T15:25:04.500Z",
+      "createdAt": "2025-10-11T01:54:39.732Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 26,
+        "geothermal": 41,
+        "biomass": 401,
+        "coal": 9784,
+        "wind": 174,
+        "solar": 0,
+        "hydro": 1591,
+        "gas": 10987,
+        "oil": 1011,
+        "unknown": 86,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 234,
+        "coal": 8191,
+        "wind": 35,
+        "solar": 0,
+        "hydro": 1053,
+        "gas": 9225,
+        "oil": 800,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 710,
+        "JP-TH": 3856
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 9,
+      "renewablePercentage": 9,
+      "powerConsumptionTotal": 24103,
+      "powerProductionTotal": 19537,
+      "powerImportTotal": 4565,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T14:00:00.000Z",
+      "updatedAt": "2025-10-12T16:25:51.639Z",
+      "createdAt": "2025-10-11T01:54:39.732Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 29,
+        "geothermal": 38,
+        "biomass": 381,
+        "coal": 9501,
+        "wind": 161,
+        "solar": 0,
+        "hydro": 1526,
+        "gas": 10670,
+        "oil": 979,
+        "unknown": 79,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 230,
+        "coal": 8048,
+        "wind": 34,
+        "solar": 0,
+        "hydro": 1035,
+        "gas": 9063,
+        "oil": 786,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 654,
+        "JP-TH": 3515
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 9,
+      "renewablePercentage": 9,
+      "powerConsumptionTotal": 23364,
+      "powerProductionTotal": 19195,
+      "powerImportTotal": 4169,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T15:00:00.000Z",
+      "updatedAt": "2025-10-12T16:25:34.593Z",
+      "createdAt": "2025-10-11T01:55:06.824Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 54,
+        "geothermal": 32,
+        "biomass": 350,
+        "coal": 8985,
+        "wind": 141,
+        "solar": 0,
+        "hydro": 1434,
+        "gas": 10094,
+        "oil": 922,
+        "unknown": 68,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 219,
+        "coal": 7652,
+        "wind": 33,
+        "solar": 0,
+        "hydro": 984,
+        "gas": 8618,
+        "oil": 747,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 896,
+        "JP-TH": 2930
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 9,
+      "renewablePercentage": 9,
+      "powerConsumptionTotal": 22079,
+      "powerProductionTotal": 18252,
+      "powerImportTotal": 3827,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "JP-TK",
+      "datetime": "2025-10-12T16:00:00.000Z",
+      "updatedAt": "2025-10-12T16:40:38.438Z",
+      "createdAt": "2025-10-11T01:54:39.732Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 47,
+        "geothermal": 33,
+        "biomass": 355,
+        "coal": 8997,
+        "wind": 151,
+        "solar": 0,
+        "hydro": 1440,
+        "gas": 10106,
+        "oil": 924,
+        "unknown": 70,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": 0,
+        "geothermal": 0,
+        "biomass": 219,
+        "coal": 7652,
+        "wind": 33,
+        "solar": 0,
+        "hydro": 984,
+        "gas": 8618,
+        "oil": 747,
+        "unknown": 0,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "JP-CB": 782,
+        "JP-TH": 3091
+      },
+      "powerExportBreakdown": {
+        "JP-CB": 0,
+        "JP-TH": 0
+      },
+      "fossilFreePercentage": 9,
+      "renewablePercentage": 9,
+      "powerConsumptionTotal": 22125,
+      "powerProductionTotal": 18252,
+      "powerImportTotal": 3873,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    }
+  ],
+  "temporalGranularity": "hourly"
+}

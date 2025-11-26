@@ -1,0 +1,1158 @@
+{
+  "zone": "IE",
+  "history": [
+    {
+      "zone": "IE",
+      "datetime": "2025-10-11T17:00:00.000Z",
+      "updatedAt": "2025-10-12T09:25:24.849Z",
+      "createdAt": "2025-10-08T23:55:08.225Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 156,
+        "geothermal": 0,
+        "biomass": 213,
+        "coal": 4,
+        "wind": 144,
+        "solar": 57,
+        "hydro": 276,
+        "gas": 3268,
+        "oil": 71,
+        "unknown": 47,
+        "hydro discharge": 5,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 158,
+        "coal": 0,
+        "wind": 28,
+        "solar": 18,
+        "hydro": 194,
+        "gas": 2727,
+        "oil": 71,
+        "unknown": 3,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1044
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 20,
+      "renewablePercentage": 16,
+      "powerConsumptionTotal": 4243,
+      "powerProductionTotal": 3199,
+      "powerImportTotal": 1044,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-11T18:00:00.000Z",
+      "updatedAt": "2025-10-12T09:25:09.743Z",
+      "createdAt": "2025-10-08T23:55:08.225Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 160,
+        "geothermal": 0,
+        "biomass": 215,
+        "coal": 4,
+        "wind": 194,
+        "solar": 15,
+        "hydro": 275,
+        "gas": 3308,
+        "oil": 72,
+        "unknown": 44,
+        "hydro discharge": 5,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 159,
+        "coal": 0,
+        "wind": 69,
+        "solar": 2,
+        "hydro": 195,
+        "gas": 2749,
+        "oil": 72,
+        "unknown": 3,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1045
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 20,
+      "renewablePercentage": 16,
+      "powerConsumptionTotal": 4294,
+      "powerProductionTotal": 3249,
+      "powerImportTotal": 1045,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-11T19:00:00.000Z",
+      "updatedAt": "2025-10-12T09:24:53.379Z",
+      "createdAt": "2025-10-08T23:54:55.011Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 166,
+        "geothermal": 0,
+        "biomass": 203,
+        "coal": 5,
+        "wind": 232,
+        "solar": 12,
+        "hydro": 254,
+        "gas": 3078,
+        "oil": 66,
+        "unknown": 25,
+        "hydro discharge": 3,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 145,
+        "coal": 0,
+        "wind": 100,
+        "solar": 2,
+        "hydro": 178,
+        "gas": 2508,
+        "oil": 66,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1042
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 22,
+      "renewablePercentage": 17,
+      "powerConsumptionTotal": 4044,
+      "powerProductionTotal": 3002,
+      "powerImportTotal": 1042,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-11T20:00:00.000Z",
+      "updatedAt": "2025-10-12T09:24:53.379Z",
+      "createdAt": "2025-10-08T23:54:40.301Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 174,
+        "geothermal": 0,
+        "biomass": 190,
+        "coal": 4,
+        "wind": 229,
+        "solar": 2,
+        "hydro": 229,
+        "gas": 2819,
+        "oil": 59,
+        "unknown": 19,
+        "hydro discharge": 2,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 130,
+        "coal": 0,
+        "wind": 97,
+        "solar": 2,
+        "hydro": 159,
+        "gas": 2237,
+        "oil": 58,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1042
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 22,
+      "renewablePercentage": 18,
+      "powerConsumptionTotal": 3727,
+      "powerProductionTotal": 2685,
+      "powerImportTotal": 1042,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-11T21:00:00.000Z",
+      "updatedAt": "2025-10-12T09:25:24.849Z",
+      "createdAt": "2025-10-08T23:54:40.301Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 189,
+        "geothermal": 0,
+        "biomass": 185,
+        "coal": 5,
+        "wind": 235,
+        "solar": 2,
+        "hydro": 217,
+        "gas": 2619,
+        "oil": 54,
+        "unknown": 24,
+        "hydro discharge": 1,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 119,
+        "coal": 0,
+        "wind": 104,
+        "solar": 2,
+        "hydro": 147,
+        "gas": 2062,
+        "oil": 54,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1042
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 24,
+      "renewablePercentage": 18,
+      "powerConsumptionTotal": 3532,
+      "powerProductionTotal": 2490,
+      "powerImportTotal": 1042,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-11T22:00:00.000Z",
+      "updatedAt": "2025-10-12T09:24:53.379Z",
+      "createdAt": "2025-10-08T23:55:08.225Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 207,
+        "geothermal": 0,
+        "biomass": 188,
+        "coal": 6,
+        "wind": 256,
+        "solar": 4,
+        "hydro": 217,
+        "gas": 2547,
+        "oil": 53,
+        "unknown": 25,
+        "hydro discharge": 2,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 117,
+        "coal": 0,
+        "wind": 123,
+        "solar": 2,
+        "hydro": 144,
+        "gas": 2023,
+        "oil": 53,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1042
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 25,
+      "renewablePercentage": 19,
+      "powerConsumptionTotal": 3506,
+      "powerProductionTotal": 2464,
+      "powerImportTotal": 1042,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-11T23:00:00.000Z",
+      "updatedAt": "2025-10-12T09:24:53.379Z",
+      "createdAt": "2025-10-08T23:54:40.301Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 213,
+        "geothermal": 0,
+        "biomass": 189,
+        "coal": 7,
+        "wind": 255,
+        "solar": 3,
+        "hydro": 218,
+        "gas": 2515,
+        "oil": 54,
+        "unknown": 19,
+        "hydro discharge": 1,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 118,
+        "coal": 0,
+        "wind": 119,
+        "solar": 2,
+        "hydro": 145,
+        "gas": 2042,
+        "oil": 53,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 993
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 25,
+      "renewablePercentage": 19,
+      "powerConsumptionTotal": 3474,
+      "powerProductionTotal": 2481,
+      "powerImportTotal": 993,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T00:00:00.000Z",
+      "updatedAt": "2025-10-12T09:25:24.849Z",
+      "createdAt": "2025-10-09T22:55:09.554Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 233,
+        "geothermal": 0,
+        "biomass": 188,
+        "coal": 8,
+        "wind": 262,
+        "solar": 2,
+        "hydro": 214,
+        "gas": 2404,
+        "oil": 50,
+        "unknown": 18,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 111,
+        "coal": 0,
+        "wind": 125,
+        "solar": 2,
+        "hydro": 136,
+        "gas": 1915,
+        "oil": 50,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1038
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 27,
+      "renewablePercentage": 20,
+      "powerConsumptionTotal": 3379,
+      "powerProductionTotal": 2341,
+      "powerImportTotal": 1038,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T01:00:00.000Z",
+      "updatedAt": "2025-10-12T09:25:24.849Z",
+      "createdAt": "2025-10-09T22:54:56.347Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 237,
+        "geothermal": 0,
+        "biomass": 187,
+        "coal": 8,
+        "wind": 243,
+        "solar": 2,
+        "hydro": 214,
+        "gas": 2383,
+        "oil": 50,
+        "unknown": 20,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 110,
+        "coal": 0,
+        "wind": 103,
+        "solar": 2,
+        "hydro": 135,
+        "gas": 1900,
+        "oil": 50,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1042
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 26,
+      "renewablePercentage": 19,
+      "powerConsumptionTotal": 3344,
+      "powerProductionTotal": 2302,
+      "powerImportTotal": 1042,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T02:00:00.000Z",
+      "updatedAt": "2025-10-12T09:24:53.379Z",
+      "createdAt": "2025-10-09T23:25:41.496Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 239,
+        "geothermal": 0,
+        "biomass": 184,
+        "coal": 7,
+        "wind": 234,
+        "solar": 2,
+        "hydro": 209,
+        "gas": 2324,
+        "oil": 48,
+        "unknown": 17,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 107,
+        "coal": 0,
+        "wind": 100,
+        "solar": 2,
+        "hydro": 131,
+        "gas": 1840,
+        "oil": 48,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1037
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 27,
+      "renewablePercentage": 19,
+      "powerConsumptionTotal": 3266,
+      "powerProductionTotal": 2229,
+      "powerImportTotal": 1037,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T03:00:00.000Z",
+      "updatedAt": "2025-10-12T09:24:53.379Z",
+      "createdAt": "2025-10-09T23:26:01.562Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 232,
+        "geothermal": 0,
+        "biomass": 179,
+        "coal": 7,
+        "wind": 250,
+        "solar": 2,
+        "hydro": 202,
+        "gas": 2234,
+        "oil": 47,
+        "unknown": 16,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 103,
+        "coal": 0,
+        "wind": 124,
+        "solar": 2,
+        "hydro": 126,
+        "gas": 1772,
+        "oil": 46,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 994
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 27,
+      "renewablePercentage": 20,
+      "powerConsumptionTotal": 3169,
+      "powerProductionTotal": 2175,
+      "powerImportTotal": 994,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T04:00:00.000Z",
+      "updatedAt": "2025-10-12T09:24:53.379Z",
+      "createdAt": "2025-10-09T23:25:41.496Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 227,
+        "geothermal": 0,
+        "biomass": 172,
+        "coal": 5,
+        "wind": 270,
+        "solar": 2,
+        "hydro": 198,
+        "gas": 2169,
+        "oil": 45,
+        "unknown": 17,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 99,
+        "coal": 0,
+        "wind": 155,
+        "solar": 2,
+        "hydro": 122,
+        "gas": 1709,
+        "oil": 45,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 973
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 28,
+      "renewablePercentage": 21,
+      "powerConsumptionTotal": 3106,
+      "powerProductionTotal": 2133,
+      "powerImportTotal": 973,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T05:00:00.000Z",
+      "updatedAt": "2025-10-12T09:25:09.743Z",
+      "createdAt": "2025-10-09T23:25:41.496Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 191,
+        "geothermal": 0,
+        "biomass": 165,
+        "coal": 2,
+        "wind": 254,
+        "solar": 2,
+        "hydro": 194,
+        "gas": 2173,
+        "oil": 47,
+        "unknown": 19,
+        "hydro discharge": 1,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 103,
+        "coal": 0,
+        "wind": 167,
+        "solar": 2,
+        "hydro": 126,
+        "gas": 1777,
+        "oil": 46,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 826
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 27,
+      "renewablePercentage": 20,
+      "powerConsumptionTotal": 3049,
+      "powerProductionTotal": 2223,
+      "powerImportTotal": 826,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T06:00:00.000Z",
+      "updatedAt": "2025-10-12T09:40:04.412Z",
+      "createdAt": "2025-10-09T23:25:41.496Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 215,
+        "geothermal": 0,
+        "biomass": 172,
+        "coal": 1,
+        "wind": 264,
+        "solar": 4,
+        "hydro": 206,
+        "gas": 2270,
+        "oil": 46,
+        "unknown": 14,
+        "hydro discharge": 1,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 101,
+        "coal": 0,
+        "wind": 173,
+        "solar": 2,
+        "hydro": 124,
+        "gas": 1750,
+        "oil": 46,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 996
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 27,
+      "renewablePercentage": 20,
+      "powerConsumptionTotal": 3193,
+      "powerProductionTotal": 2197,
+      "powerImportTotal": 996,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T07:00:00.000Z",
+      "updatedAt": "2025-10-12T15:40:30.645Z",
+      "createdAt": "2025-10-09T23:26:01.562Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 217,
+        "geothermal": 0,
+        "biomass": 181,
+        "coal": 5,
+        "wind": 328,
+        "solar": 33,
+        "hydro": 219,
+        "gas": 2406,
+        "oil": 49,
+        "unknown": 30,
+        "hydro discharge": 1,
+        "battery discharge": 1
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 109,
+        "coal": 0,
+        "wind": 243,
+        "solar": 15,
+        "hydro": 133,
+        "gas": 1877,
+        "oil": 49,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1042
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 28,
+      "renewablePercentage": 22,
+      "powerConsumptionTotal": 3470,
+      "powerProductionTotal": 2428,
+      "powerImportTotal": 1042,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T08:00:00.000Z",
+      "updatedAt": "2025-10-12T11:40:27.250Z",
+      "createdAt": "2025-10-09T23:26:14.729Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 195,
+        "geothermal": 0,
+        "biomass": 188,
+        "coal": 5,
+        "wind": 356,
+        "solar": 143,
+        "hydro": 229,
+        "gas": 2592,
+        "oil": 55,
+        "unknown": 45,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 121,
+        "coal": 0,
+        "wind": 290,
+        "solar": 62,
+        "hydro": 148,
+        "gas": 2085,
+        "oil": 54,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1044
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 29,
+      "renewablePercentage": 24,
+      "powerConsumptionTotal": 3807,
+      "powerProductionTotal": 2763,
+      "powerImportTotal": 1044,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T09:00:00.000Z",
+      "updatedAt": "2025-10-12T12:40:23.309Z",
+      "createdAt": "2025-10-09T23:26:01.562Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 169,
+        "geothermal": 0,
+        "biomass": 186,
+        "coal": 3,
+        "wind": 346,
+        "solar": 297,
+        "hydro": 225,
+        "gas": 2670,
+        "oil": 58,
+        "unknown": 41,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 128,
+        "coal": 0,
+        "wind": 287,
+        "solar": 119,
+        "hydro": 157,
+        "gas": 2202,
+        "oil": 58,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1044
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 31,
+      "renewablePercentage": 26,
+      "powerConsumptionTotal": 3995,
+      "powerProductionTotal": 2951,
+      "powerImportTotal": 1044,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T10:00:00.000Z",
+      "updatedAt": "2025-10-12T16:40:22.379Z",
+      "createdAt": "2025-10-09T23:26:14.729Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 157,
+        "geothermal": 0,
+        "biomass": 180,
+        "coal": 3,
+        "wind": 264,
+        "solar": 418,
+        "hydro": 213,
+        "gas": 2619,
+        "oil": 57,
+        "unknown": 41,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 126,
+        "coal": 0,
+        "wind": 214,
+        "solar": 180,
+        "hydro": 155,
+        "gas": 2174,
+        "oil": 57,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1044
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 31,
+      "renewablePercentage": 27,
+      "powerConsumptionTotal": 3952,
+      "powerProductionTotal": 2908,
+      "powerImportTotal": 1044,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T11:00:00.000Z",
+      "updatedAt": "2025-10-12T14:41:18.753Z",
+      "createdAt": "2025-10-09T23:26:01.562Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 148,
+        "geothermal": 0,
+        "biomass": 176,
+        "coal": 3,
+        "wind": 308,
+        "solar": 476,
+        "hydro": 211,
+        "gas": 2591,
+        "oil": 57,
+        "unknown": 30,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 125,
+        "coal": 0,
+        "wind": 265,
+        "solar": 195,
+        "hydro": 154,
+        "gas": 2159,
+        "oil": 56,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1044
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 33,
+      "renewablePercentage": 29,
+      "powerConsumptionTotal": 4000,
+      "powerProductionTotal": 2956,
+      "powerImportTotal": 1044,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T12:00:00.000Z",
+      "updatedAt": "2025-10-12T15:40:30.645Z",
+      "createdAt": "2025-10-09T23:26:14.729Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 144,
+        "geothermal": 0,
+        "biomass": 172,
+        "coal": 3,
+        "wind": 361,
+        "solar": 480,
+        "hydro": 206,
+        "gas": 2558,
+        "oil": 55,
+        "unknown": 21,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 122,
+        "coal": 0,
+        "wind": 320,
+        "solar": 198,
+        "hydro": 150,
+        "gas": 2108,
+        "oil": 55,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1044
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 34,
+      "renewablePercentage": 30,
+      "powerConsumptionTotal": 3999,
+      "powerProductionTotal": 2955,
+      "powerImportTotal": 1044,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T13:00:00.000Z",
+      "updatedAt": "2025-10-12T16:40:38.438Z",
+      "createdAt": "2025-10-09T23:26:01.562Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 143,
+        "geothermal": 0,
+        "biomass": 164,
+        "coal": 3,
+        "wind": 432,
+        "solar": 458,
+        "hydro": 192,
+        "gas": 2440,
+        "oil": 52,
+        "unknown": 14,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 114,
+        "coal": 0,
+        "wind": 392,
+        "solar": 192,
+        "hydro": 140,
+        "gas": 1964,
+        "oil": 51,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1044
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 36,
+      "renewablePercentage": 32,
+      "powerConsumptionTotal": 3898,
+      "powerProductionTotal": 2854,
+      "powerImportTotal": 1044,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T14:00:00.000Z",
+      "updatedAt": "2025-10-12T16:40:22.379Z",
+      "createdAt": "2025-10-09T23:26:14.729Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 150,
+        "geothermal": 0,
+        "biomass": 161,
+        "coal": 4,
+        "wind": 478,
+        "solar": 385,
+        "hydro": 190,
+        "gas": 2389,
+        "oil": 50,
+        "unknown": 15,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 109,
+        "coal": 0,
+        "wind": 439,
+        "solar": 156,
+        "hydro": 134,
+        "gas": 1889,
+        "oil": 49,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1044
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 36,
+      "renewablePercentage": 32,
+      "powerConsumptionTotal": 3822,
+      "powerProductionTotal": 2778,
+      "powerImportTotal": 1044,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T15:00:00.000Z",
+      "updatedAt": "2025-10-12T16:40:22.379Z",
+      "createdAt": "2025-10-09T23:25:41.496Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 155,
+        "geothermal": 0,
+        "biomass": 161,
+        "coal": 4,
+        "wind": 485,
+        "solar": 293,
+        "hydro": 190,
+        "gas": 2482,
+        "oil": 50,
+        "unknown": 17,
+        "hydro discharge": 0,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 111,
+        "coal": 0,
+        "wind": 448,
+        "solar": 131,
+        "hydro": 136,
+        "gas": 1916,
+        "oil": 50,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1044
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 33,
+      "renewablePercentage": 29,
+      "powerConsumptionTotal": 3838,
+      "powerProductionTotal": 2794,
+      "powerImportTotal": 1044,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    },
+    {
+      "zone": "IE",
+      "datetime": "2025-10-12T16:00:00.000Z",
+      "updatedAt": "2025-10-12T16:40:04.080Z",
+      "createdAt": "2025-10-09T23:26:14.729Z",
+      "powerConsumptionBreakdown": {
+        "nuclear": 149,
+        "geothermal": 0,
+        "biomass": 162,
+        "coal": 5,
+        "wind": 491,
+        "solar": 304,
+        "hydro": 205,
+        "gas": 2455,
+        "oil": 50,
+        "unknown": 15,
+        "hydro discharge": 2,
+        "battery discharge": 0
+      },
+      "powerProductionBreakdown": {
+        "nuclear": null,
+        "geothermal": null,
+        "biomass": 111,
+        "coal": 0,
+        "wind": 448,
+        "solar": 131,
+        "hydro": 136,
+        "gas": 1916,
+        "oil": 50,
+        "unknown": 2,
+        "hydro discharge": null,
+        "battery discharge": null
+      },
+      "powerImportBreakdown": {
+        "GB": 1044
+      },
+      "powerExportBreakdown": {
+        "GB": 0
+      },
+      "fossilFreePercentage": 34,
+      "renewablePercentage": 30,
+      "powerConsumptionTotal": 3838,
+      "powerProductionTotal": 2794,
+      "powerImportTotal": 1044,
+      "powerExportTotal": 0,
+      "isEstimated": true,
+      "estimationMethod": "MODE_BREAKDOWN"
+    }
+  ],
+  "temporalGranularity": "hourly"
+}

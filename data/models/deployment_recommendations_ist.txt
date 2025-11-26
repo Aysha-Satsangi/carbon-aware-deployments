@@ -1,0 +1,35 @@
+
+CARBON-AWARE CLOUD DEPLOYMENT RECOMMENDATIONS
+===============================================
+
+Generated: 2025-11-16 21:55:01 (IST)
+
+NOTE: All times shown in Indian Standard Time (IST = UTC+5:30)
+       UTC times also provided in parentheses for reference
+
+DEPLOYMENT STRATEGY:
+--------------------
+
+1. IMMEDIATE (Best NOW - Next Hour):
+
+   BE: 145 gCO2/kWh (next hour forecast: 114)
+   IE: 216 gCO2/kWh (next hour forecast: 172)
+   US-NW-PACW: 248 gCO2/kWh (next hour forecast: 238)
+
+2. BEST IN NEXT 24H:
+
+   BE: 12:30 IST (07:00 UTC) = 92 gCO2/kWh
+   IE: 11:30 IST (06:00 UTC) = 117 gCO2/kWh
+   US-NW-PACW: 21:30 IST (16:00 UTC) = 228 gCO2/kWh
+   DE: 19:30 IST (14:00 UTC) = 255 gCO2/kWh
+   US-MIDA-PJM: 12:30 IST (07:00 UTC) = 381 gCO2/kWh
+
+3. WORST TIMES TO AVOID:
+
+   JP-TK: 14:30 IST (09:00 UTC) = 550 gCO2/kWh
+   US-MIDW-MISO: 05:30 IST (00:00 UTC) = 536 gCO2/kWh
+   SG: 04:30 IST (23:00 UTC) = 470 gCO2/kWh
+   US-MIDA-PJM: 09:30 IST (04:00 UTC) = 391 gCO2/kWh
+   DE: 06:30 IST (01:00 UTC) = 370 gCO2/kWh
+
+============================================================

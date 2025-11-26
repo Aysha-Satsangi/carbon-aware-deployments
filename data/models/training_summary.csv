@@ -1,0 +1,9 @@
+zone,test_loss,test_mae,test_mape,n_features,features
+BE,0.08387769758701324,0.19456762075424194,683824.0,4,"['carbon', 'hour_sin', 'hour_cos', 'is_weekend']"
+DE,0.08263269066810608,0.21188205480575562,725667.0,4,"['carbon', 'hour_sin', 'hour_cos', 'is_weekend']"
+IE,0.06688681989908218,0.15808051824569702,69.45973205566406,4,"['carbon', 'hour_sin', 'hour_cos', 'is_weekend']"
+JP-TK,0.03251078724861145,0.10999736189842224,19.26042938232422,4,"['carbon', 'hour_sin', 'hour_cos', 'is_weekend']"
+SG,0.020377740263938904,0.0958237498998642,36.332679748535156,4,"['carbon', 'hour_sin', 'hour_cos', 'is_weekend']"
+US-MIDA-PJM,0.05099213123321533,0.15598216652870178,1325451.625,4,"['carbon', 'hour_sin', 'hour_cos', 'is_weekend']"
+US-MIDW-MISO,0.08515482395887375,0.21681734919548035,3249388.75,4,"['carbon', 'hour_sin', 'hour_cos', 'is_weekend']"
+US-NW-PACW,0.051095325499773026,0.16164684295654297,74.08150482177734,4,"['carbon', 'hour_sin', 'hour_cos', 'is_weekend']"
